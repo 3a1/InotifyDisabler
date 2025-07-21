@@ -1,0 +1,6 @@
+id=disableinotify
+name=Inotify Disabler
+version=v1
+versionCode=1
+author=Z3bra
+description=Sets fs.inotify.max_user_instances=0 to disable inotify
